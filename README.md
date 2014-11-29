@@ -11,7 +11,7 @@ Your domain needs to be using a zone that you are allowed to edit. The default G
 Requirements
 ============
 
-  * Python 3
+  * Python >= 3.3
 
 Command line usage
 ==================
