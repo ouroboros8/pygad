@@ -15,7 +15,7 @@ IP_SERVICE = 'http://icanhazip.com/'
 def usage():
     print(
         '''
-        Usage: $0 [-f] -a APIKEY -d EXAMPLE.COM -r \"RECORD-NAMES\"
+        Usage: python3 gad.py [-f] -a APIKEY -d EXAMPLE.COM -r \"RECORD-NAMES\"
 
         -f: Force an update regardless of IP address discrepancy
 
