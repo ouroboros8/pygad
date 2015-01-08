@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 # This script is intended for use as a cron job to update the A records
 # of Gandi zone files.
 
